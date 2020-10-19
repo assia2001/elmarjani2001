@@ -1,0 +1,75 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="projet.css">
+</head>
+<body>
+<nav>
+<img src ="hotel2.png">
+<ul class="menu">
+<li class="element"><a class="lien" href="projet.html"> Acceuil <a></li>
+<li class="element"><a class="lien" href="#" >Service </a></li>
+<li class="element"><a class="lien" href="formulaire.html"> Réservation</a></li>
+<li class="element"><a class="lien" href="#"> Contact </a></li>
+</ul>
+</nav>
+<div class="slidershow middle">
+<div class="slides">
+<input type="radio" name="r" id="r1" checked>
+<input type="radio" name="r" id="r2">
+<input type="radio" name="r" id="r3">
+<input type="radio" name="r" id="r4">
+<input type="radio" name="r" id="r5">
+<input type="radio" name="r" id="r6">
+<input type="radio" name="r" id="r7">
+<input type="radio" name="r" id="r8">
+<input type="radio" name="r" id="r9">
+<input type="radio" name="r" id="r10">
+<input type="radio" name="r" id="r11">
+<div class="slide slide1">
+<img src="imag1.jpg" alt="">
+</div>
+<div class="slide slide2">
+<img src="imag2.jpg" alt="">
+</div>
+<div class="slide slide3">
+<img src="imag3.jpg" alt="">
+</div>
+<div class="slide slide4">
+<img src="imag4.jpg" alt="">
+</div>
+<div class="slide slide5">
+<img src="imag5.jpg" alt="">
+</div>
+<div class="slide slide6">
+<img src="imag6.jpg" alt="">
+</div>
+<div class="slide slide7">
+<img src="imag7.jpg" alt="">
+</div>
+<div class="slide slide8">
+<img src="imag8.jpg" alt="">
+</div>
+<div class="slide slide9">
+<img src="imag9.jpg" alt="">
+</div>
+<div class="slide slide10">
+<img src="imag10.jpg" alt="">
+</div>
+</div>
+<div class="navigation">
+<label for="r1" class="bar"></label>
+<label for="r2" class="bar"></label>
+<label for="r3" class="bar"></label> 
+<label for="r4" class="bar"></label>
+<label for="r5" class ="bar"></label>
+<label for="r6" class ="bar"></label>
+<label for="r7" class ="bar"></label>
+<label for="r8" class ="bar"></label>
+<label for="r9" class ="bar"></label>
+<label for="r10" class ="bar"></label>
+<label for="r11" class ="bar"></label>
+</div>
+</div>
+</body>
+</html>
